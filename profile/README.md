@@ -10,5 +10,5 @@ Personal tech ecosystem by a single developer based in Ho Chi Minh City, Vietnam
 | **GN Money** | Personal finance manager with AI receipt scanning and Telegram bot | [money.gnas.dev](https://money.gnas.dev) |
 | **GN Engreel** | Vocabulary learning with AI and spaced repetition | [engreel.gnas.dev](https://engreel.gnas.dev) |
 | **GN Drive** | Desktop file sync with 70+ cloud providers (open source) | [github.com/gnasdev/gn-drive](https://github.com/gnasdev/gn-drive) |
-| **GN Web Tracing** | Browser session recording for debugging (open source) | [github.com/gnasdev/gn-web-tracing-extension](https://github.com/gnasdev/gn-web-tracing-extension) |
+| **GN Tracing** | Browser session recording for debugging (open source) | [github.com/gnasdev/gn-tracing](https://github.com/gnasdev/gn-tracing) |
 
