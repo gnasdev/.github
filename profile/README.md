@@ -32,5 +32,5 @@ Solo developer · Ho Chi Minh City · [gnas.dev](https://gnas.dev) · [Facebook]
 ## Contact
 
 - Web: [https://gnas.dev](https://gnas.dev)
-- Email: [ngosangns@gmail.com](mailto:ngosangns@gmail.com)
+- Email: [admin@gnas.dev](mailto:admin@gnas.dev)
 - Facebook: [facebook.com/gnasdev](https://www.facebook.com/gnasdev)
