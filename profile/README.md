@@ -20,8 +20,8 @@ Solo developer · Ho Chi Minh City · [gnas.dev](https://gnas.dev) · [Facebook]
 
 | Project | What it is | Link |
 |---------|------------|------|
-| **GN Drive** | Desktop cloud sync (rclone + Wails) | [github.com/gnasdev/gn-drive](https://github.com/gnasdev/gn-drive) |
-| **GN Tracing** | Browser debug / session tools | [github.com/gnasdev/gn-tracing](https://github.com/gnasdev/gn-tracing) |
+| **GN Drive** | Local-only cloud sync via rclone — one binary (CLI + Vue 3 portal on loopback) | [github.com/gnasdev/gn-drive](https://github.com/gnasdev/gn-drive) |
+| **GN Tracing** | Chromium extension: record a tab (video, console, network, WebSocket) into a shareable replay | [github.com/gnasdev/gn-tracing](https://github.com/gnasdev/gn-tracing) · [tracing.gnas.dev](https://tracing.gnas.dev) |
 
 ## Principles
 
