@@ -15,6 +15,7 @@ Solo developer · Ho Chi Minh City · [gnas.dev](https://gnas.dev) · [Facebook]
 | **GN Shop** | Fashion store we host | [shop.gnas.dev](https://shop.gnas.dev) |
 | **GN Money** | Personal spending ledger | [money.gnas.dev](https://money.gnas.dev) |
 | **GN Engreel** | Daily vocabulary practice | [engreel.gnas.dev](https://engreel.gnas.dev) |
+| **GN CAD** | Parametric CAD workbench in the browser | [cad.gnas.dev](https://cad.gnas.dev) |
 
 ## Open source
 
