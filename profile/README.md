@@ -16,13 +16,13 @@ Solo developer · Ho Chi Minh City · [gnas.dev](https://gnas.dev) · [Facebook]
 | **GN Money** | Personal spending ledger | [money.gnas.dev](https://money.gnas.dev) |
 | **GN Engreel** | Daily vocabulary practice | [engreel.gnas.dev](https://engreel.gnas.dev) |
 | **GN CAD** | Parametric CAD workbench in the browser | [cad.gnas.dev](https://cad.gnas.dev) |
+| **GN Tracing** | Record a tab (video, console, network, WebSocket) into a shareable replay | [tracing.gnas.dev](https://tracing.gnas.dev) |
 
 ## Open source
 
 | Project | What it is | Link |
 |---------|------------|------|
 | **GN Drive** | Local-only cloud sync via rclone — one binary (CLI + Vue 3 portal on loopback) | [github.com/gnasdev/gn-drive](https://github.com/gnasdev/gn-drive) |
-| **GN Tracing** | Chromium extension: record a tab (video, console, network, WebSocket) into a shareable replay | [github.com/gnasdev/gn-tracing](https://github.com/gnasdev/gn-tracing) · [tracing.gnas.dev](https://tracing.gnas.dev) |
 
 ## Principles
 
