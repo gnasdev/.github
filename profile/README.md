@@ -23,6 +23,7 @@ Solo developer · Ho Chi Minh City · [gnas.dev](https://gnas.dev) · [Facebook]
 | Project | What it is | Link |
 |---------|------------|------|
 | **GN Drive** | Local-only cloud sync via rclone — one binary (CLI + Vue 3 portal on loopback) | [github.com/gnasdev/gn-drive](https://github.com/gnasdev/gn-drive) |
+| **GN Tracing OSS** | MCP server + replay-core parser for GN Tracing browser-recording replays | [github.com/gnasdev/gn-tracing-oss](https://github.com/gnasdev/gn-tracing-oss) |
 
 ## Principles
 
